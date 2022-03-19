@@ -1,0 +1,10 @@
+tr {
+  height: 50px;
+  background: #a7c3df;
+  border-bottom: rgba(0, 0, 0, 0.05) 1px solid;
+}
+
+td {
+  box-sizing: border-box;
+  padding-left: 30px;
+}
